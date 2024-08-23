@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+:root{
+    --corFundo1: black;
+    --corFundo2: black;
+
+    --fonteH1: arial;
+    --fonteH2: arial;
+    --fonteP: arial;
+}
+
